@@ -33,6 +33,7 @@ h1 {
 
 .draggable-list {
     width: 400px;
+    max-width: 80%;
     color: var(--text-color);
     border: 1px solid var(--mid);
     list-style: none;
